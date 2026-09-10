@@ -1,0 +1,5 @@
+node_modules/
+.env
+workflow_api.json
+*.log
+.DS_Store
